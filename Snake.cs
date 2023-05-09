@@ -14,12 +14,12 @@ internal class Snake
     public int length = 1;
 
     // 0 = right, 1 = down, 2 = left, 3 = up
-    public int dir = 0;
+    public int dir = -1;
 
     public Snake()
     {
         // snake spawn pos
-        headPos = new Vector2(Main.rnd.Next() % 33, Main.rnd.Next() % 24);
+        headPos = new Vector2(Main.rnd.Next() % 32, Main.rnd.Next() % 24);
         position.Add(headPos);
     }
 }
