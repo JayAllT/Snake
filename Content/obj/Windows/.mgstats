@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/apple.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/apple.xnb","TextureProcessor","Texture2DContent",136,2585,0.1080344
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/bg.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/bg.xnb","TextureProcessor","Texture2DContent",203,1920085,0.0456784
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/snake.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/snake.xnb","TextureProcessor","Texture2DContent",136,2585,0.0014634
