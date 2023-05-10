@@ -1,4 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/Jay/Documents/Dev/C#/Snake/Content/apple.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/apple.xnb","TextureProcessor","Texture2DContent",136,2585,0.0928774
-"C:/Users/Jay/Documents/Dev/C#/Snake/Content/bg.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/bg.xnb","TextureProcessor","Texture2DContent",203,1920085,0.0384025
-"C:/Users/Jay/Documents/Dev/C#/Snake/Content/snake.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/snake.xnb","TextureProcessor","Texture2DContent",136,2585,0.0016989
+"C:/Users/jayal/Documents/Dev/C#/Snake/Content/apple.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/apple.xnb","TextureProcessor","Texture2DContent",136,2585,0.1636981
+"C:/Users/jayal/Documents/Dev/C#/Snake/Content/bg.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/bg.xnb","TextureProcessor","Texture2DContent",203,1920085,0.06019
+"C:/Users/jayal/Documents/Dev/C#/Snake/Content/snake.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/snake.xnb","TextureProcessor","Texture2DContent",136,2585,0.003319

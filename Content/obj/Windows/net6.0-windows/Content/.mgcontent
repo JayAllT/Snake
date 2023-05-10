@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Jay/Documents/Dev/C#/Snake/Content/apple.png</File>
-    <File>C:/Users/Jay/Documents/Dev/C#/Snake/Content/bg.png</File>
-    <File>C:/Users/Jay/Documents/Dev/C#/Snake/Content/snake.png</File>
+    <File>C:/Users/jayal/Documents/Dev/C#/Snake/Content/apple.png</File>
+    <File>C:/Users/jayal/Documents/Dev/C#/Snake/Content/bg.png</File>
+    <File>C:/Users/jayal/Documents/Dev/C#/Snake/Content/snake.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
