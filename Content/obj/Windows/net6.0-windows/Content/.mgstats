@@ -1,4 +1,6 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/jayal/Documents/Dev/C#/Snake/Content/apple.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/apple.xnb","TextureProcessor","Texture2DContent",136,2585,0.1636981
-"C:/Users/jayal/Documents/Dev/C#/Snake/Content/bg.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/bg.xnb","TextureProcessor","Texture2DContent",203,1920085,0.06019
-"C:/Users/jayal/Documents/Dev/C#/Snake/Content/snake.png","C:/Users/jayal/Documents/Dev/C#/Snake/Content/bin/Windows/Content/snake.xnb","TextureProcessor","Texture2DContent",136,2585,0.003319
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/apple.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/apple.xnb","TextureProcessor","Texture2DContent",136,2585,0.13383
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/bg.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/bg.xnb","TextureProcessor","Texture2DContent",203,1920085,0.0527339
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/DeadFont.spritefont","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/DeadFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,136223,0.18227
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/GameFont.spritefont","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.163257
+"C:/Users/Jay/Documents/Dev/C#/Snake/Content/snake.png","C:/Users/Jay/Documents/Dev/C#/Snake/Content/bin/Windows/Content/snake.xnb","TextureProcessor","Texture2DContent",136,2585,0.0016178

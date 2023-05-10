@@ -78,3 +78,5 @@ C:\Users\jayal\Documents\Dev\C#\Snake\obj\Debug\net6.0-windows\refint\Snake.dll
 C:\Users\jayal\Documents\Dev\C#\Snake\obj\Debug\net6.0-windows\Snake.pdb
 C:\Users\jayal\Documents\Dev\C#\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
 C:\Users\jayal\Documents\Dev\C#\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\Jay\Documents\Dev\C#\Snake\bin\Debug\net6.0-windows\Content\DeadFont.xnb
+C:\Users\Jay\Documents\Dev\C#\Snake\bin\Debug\net6.0-windows\Content\GameFont.xnb

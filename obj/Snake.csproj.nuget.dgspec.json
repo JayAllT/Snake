@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jayal\\Documents\\Dev\\C#\\Snake\\Snake.csproj": {}
+    "C:\\Users\\Jay\\Documents\\Dev\\C#\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jayal\\Documents\\Dev\\C#\\Snake\\Snake.csproj": {
+    "C:\\Users\\Jay\\Documents\\Dev\\C#\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jayal\\Documents\\Dev\\C#\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\Jay\\Documents\\Dev\\C#\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\jayal\\Documents\\Dev\\C#\\Snake\\Snake.csproj",
-        "packagesPath": "C:\\Users\\jayal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jayal\\Documents\\Dev\\C#\\Snake\\obj\\",
+        "projectPath": "C:\\Users\\Jay\\Documents\\Dev\\C#\\Snake\\Snake.csproj",
+        "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jay\\Documents\\Dev\\C#\\Snake\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jayal\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Jay\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

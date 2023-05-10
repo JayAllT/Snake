@@ -9,7 +9,6 @@ internal class Snake
 {
     // keeps track of places snake is, in order
     public List<Vector2> position = new List<Vector2>();
-    public Vector2 headPos = new Vector2();
 
     public int length = 1;
 
@@ -18,8 +17,6 @@ internal class Snake
 
     public Snake()
     {
-        // snake spawn pos
-        headPos = new Vector2(Main.rnd.Next() % 32, Main.rnd.Next() % 24);
-        position.Add(headPos);
+        position.Add(new Vector2(Main.rnd.Next() % 31, Main.rnd.Next() % 24));
     }
 }

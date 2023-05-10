@@ -37,6 +37,20 @@
 /processorParam:TextureFormat=Color
 /build:bg.png
 
+#begin DeadFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:DeadFont.spritefont
+
+#begin GameFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:GameFont.spritefont
+
 #begin snake.png
 /importer:TextureImporter
 /processor:TextureProcessor
